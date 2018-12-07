@@ -45,9 +45,16 @@ if you leave the instance name empty, all instances are started.
 
 Documentation
 -------------
+You can find various documentation about Zorp GPL:
 
-You can find the Zorp Tutorial in doc/zorp-tutorial.html which describes the
-GPLd version of Zorp, and a more comprehensive documentation for the
-commercial version which is available at
+| Doc                       | URL                                                                   |
+|---	                    |---	                                                                |
+| Tutorial                  | https://zorp-gpl-tutorial.readthedocs.io/en/latest/                   |
+| Reference Guide           | https://www.balasys.hu/content/documents/zorp-gpl-guide-reference.pdf |
+| Example configurations	| https://github.com/balasys/zorp-examples	                            |
 
-http://www.balasys.hu/documentation/
+If you are interested in Zorp commercial version you can find more information here:
+
+| Avaliable languages                       | URL                                                                   |
+|---	                    |---	                                                                |
+| ENG/HU                  | https://zorp-gpl-tutorial.readthedocs.io/en/latest/                   |
